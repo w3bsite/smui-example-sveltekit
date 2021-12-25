@@ -14,7 +14,6 @@
 		"smui-theme-dark": "smui-theme compile static/smui-dark.css -i src/theme/dark"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-vercel": "next",
 		"@material/theme": "^13.0.0",
 		"@material/typography": "^13.0.0",
 		"@mdi/js": "^6.5.95",
